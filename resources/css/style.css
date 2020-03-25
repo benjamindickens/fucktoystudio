@@ -13,9 +13,10 @@ img {
   max-width: 100%;
 }
 /* Navigation section */
+
 #main-nav {
-  margin: 0 auto;
-  max-width: 900px;
+  /* margin: 0 auto;
+  max-width: 900px; */
   background-color: var(--dark);
 }
 .navigation {

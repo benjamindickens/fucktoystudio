@@ -35,7 +35,7 @@ img {
 }
 /* WRAPPERS */
 .wrapper-content {
-  grid-gap: 40px;
+  grid-gap: 60px;
   display: grid;
   margin: 0 auto;
   max-width: 900px;
@@ -99,6 +99,7 @@ section {
 #about {
   display: grid;
   grid-gap: 2rem;
+  line-height: 1.7;
 }
 
 /* GALLERY */
